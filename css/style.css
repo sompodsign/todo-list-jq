@@ -99,7 +99,7 @@ body {
     cursor: pointer;
 }
 .task-remove {
-    background-image: url(/img/trash.svg);
+    background-image: url(..img/trash.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 30px;
